@@ -1,5 +1,4 @@
 <b><h1>PyThag</h1></b>
-
 PyThag is a Python math intepreter built to evaluate mathematical expressions. 
 
 The goal of this project is to help me hone my program-ming skills as a student, as well as provide me with a deeper understanding 
